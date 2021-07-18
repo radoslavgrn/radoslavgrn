@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @radoslavgrn
 - 👀 I’m interested in Java, Spring Boot, RDBMS and JS
-- 🌱 I’m currently learning TDD, JS, DevOps
-- 💞️ I’m looking to collaborate on largely used open-source projects with bug fixing and optimizations
+- 🌱 I’m currently learning TDD, JS, CI/CD
+- 💞️ I’m looking to collaborate on small web-based applications
 - 📫 How to reach me radoslavgrn@gmail.com
 
 <!---
