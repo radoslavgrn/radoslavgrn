@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radoslavgrn
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development technologies such as Spring Framework, Spring Boot, Quarkus
 - 📫 How to reach me radoslavgrn@gmail.com
 
 <!---
