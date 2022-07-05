@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radoslavgrn
-- 👀 I’m interested in Java, Spring/Boot, SQL/NOSQL
+- 👀 I’m interested in Web development
 - 📫 How to reach me radoslavgrn@gmail.com
 
 <!---
